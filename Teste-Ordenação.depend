@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510527803 source:c:\users\casa\documents\github\teste-ordenacao\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"GerenciadorDeArquivos.h"
+
+1510517831 source:c:\users\casa\documents\github\teste-ordenacao\gerenciadordearquivos.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"GerenciadorDeArquivos.h"
+
+1510517318 c:\users\casa\documents\github\teste-ordenacao\gerenciadordearquivos.h
+
+1510530428 source:c:\users\casa\documents\github\teste-ordenacao\stringsort.cpp
+	"StringSort.h"
+
+1510530428 c:\users\casa\documents\github\teste-ordenacao\stringsort.h
+
